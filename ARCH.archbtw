@@ -9,3 +9,12 @@ the linux way
 arch arch arch arch arch arch arch arch arch arch btw
 
 arch linux arch linux
+
+; 80 * (+1) btw
+; 17 * (+1) btw
+; 15 * (-1) btw
+; 5 * (+1) btw
+; while buff not zero
+; -1
+; end while
+; 10 * (+1) btw
